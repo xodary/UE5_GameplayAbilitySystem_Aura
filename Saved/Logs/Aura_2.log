@@ -1160,3 +1160,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.07.13-05.30.58:701][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 351.700592
 [2025.07.13-05.30.59:702][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.13-05.30.59:702][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 352.367828, Update Interval: 338.226257
+[2025.07.13-05.36.40:777][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 693.776855
+[2025.07.13-05.36.41:777][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.13-05.36.41:777][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 694.443970, Update Interval: 323.178192
+[2025.07.13-05.42.12:640][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1025.640503
+[2025.07.13-05.42.13:640][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.13-05.42.13:640][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1026.306763, Update Interval: 318.752411
+[2025.07.13-05.47.47:064][947]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1360.066772
+[2025.07.13-05.47.48:066][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.13-05.47.48:066][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1360.732910, Update Interval: 337.003082
